@@ -1,3 +1,3 @@
 # hello-world
 
-all wark an dno play
+all wark and no play
